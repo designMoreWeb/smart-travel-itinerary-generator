@@ -1,0 +1,5 @@
+```yaml
+title: Smart Travel Itinerary Generator
+description: A conversational AI assistant for planning trips with Gemini
+theme: jekyll-theme-hacker
+markdown: kramdown
